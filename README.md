@@ -51,3 +51,5 @@ Save the generated notes as text.
 
 ## 📁 Project Structure
 
+https://cogniguide-rag-project-ufgxqmul3v4lsqpsmgw8wj.streamlit.app/
+
